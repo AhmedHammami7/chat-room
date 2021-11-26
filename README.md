@@ -1,6 +1,6 @@
 # Chat-room
-This project implemented a real-time chat application with socket.io.
-![Screenshot] (/preview.png) 
+This project implemented a real-time chat application with socket.io
+![Screenshot](/preview.png) 
 
 
 ## Tech Stack
